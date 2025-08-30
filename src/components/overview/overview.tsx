@@ -179,7 +179,7 @@ export default function Overview() {
               <div className="flex flex-col items-center gap-1 md:gap-2">
                 
                   <Image 
-                    src="/5b020e0cc17d6289b9cb15c825b8273b3b20636a.png" 
+                    src="https://res.cloudinary.com/dt5qoqw6u/image/upload/v1756553586/5b020e0cc17d6289b9cb15c825b8273b3b20636a_fn257g.png" 
                     width={20} 
                     height={20} 
                     alt="Achievement badge" 
